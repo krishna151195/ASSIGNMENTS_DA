@@ -34,7 +34,9 @@ LEFT JOIN OLA
 ON PASSENGER.PASS_ID = OLA.OLA_CAB_ID;
 
 
+SELECT * FROM course30.ola;
 
+SELECT * FROM course30.passenger;
 
 
 
